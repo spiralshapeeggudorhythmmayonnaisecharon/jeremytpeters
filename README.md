@@ -2,7 +2,8 @@
 - 👀 I’m interested in html, css, JavaScript, python, and Cyber security.
 - 🌱 I’m currently learning part-time MOOC's.
 - 💞️ I’m looking to collaborate on open source for beginners.
-- 📫 How to reach me ...
+- 📫 How to reach me: 
+https://www.linkedin.com/in/jerpeters
 
 <!---
 jeremytpeters/jeremytpeters is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
