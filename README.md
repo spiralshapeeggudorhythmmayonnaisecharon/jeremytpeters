@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jeremytpeters
-- 👀 I’m interested in Full-Stack.
+- 👀 I’m interested in Full-Stack development.
 - 🌱 I’m currently learning after my day job.
 - 💞️ I’m looking to build projects.
 - 📫 How to reach me: 
