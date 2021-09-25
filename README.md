@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jeremytpeters
 - 👀 I’m interested in Full-Stack.
-- 🌱 I’m currently learning after day job.
+- 🌱 I’m currently learning after my day job.
 - 💞️ I’m looking to build projects.
 - 📫 How to reach me: 
 https://www.jeremypeters.design/
