@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @jeremytpeters
 
-- 🌱 I’m currently learning after my day job.
 
 
 <!---
